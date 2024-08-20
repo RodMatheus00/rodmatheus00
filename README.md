@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/cf20b382-5718-4467-999c-c4c0d8e76bcf"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/cc5d22d8-5c88-415b-8fa6-5e5c62aff610"/>
 <br>
 <br> 
 
@@ -36,7 +36,7 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/e9b73c0d-5765-4bbd-901c-6b05e9dda88a">
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/9a9a4592-b53c-4f28-b502-ea3329f29356">
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
@@ -46,7 +46,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f03fc798-fb0c-45bf-998e-09a497018b29">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/ecc0097c-b7c0-4ef6-8307-4c5c609cfc2f">
 
 </div>
 
@@ -62,7 +62,7 @@
 
 
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/e9b73c0d-5765-4bbd-901c-6b05e9dda88a">
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/9a9a4592-b53c-4f28-b502-ea3329f29356">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
@@ -77,4 +77,4 @@
 <br>
 <br>
 
-<img width=100% src="https://github.com/user-attachments/assets/9ceda033-d0b6-453d-a3e0-be074b23c870"/>
+<img width=100% src="https://github.com/user-attachments/assets/25a069da-c620-49c5-b18d-50dea9da311c"/>
