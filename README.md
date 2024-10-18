@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hello%2C+my+name+is+Matheus.;I+am+23+years+old.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+;My+name+is+Matheus.;I+am+24+years+old.)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -46,6 +46,10 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/ecc0097c-b7c0-4ef6-8307-4c5c609cfc2f">
 
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/e2b0c947-e762-4327-bacf-d6afa1c10195">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/0eee9d7d-e4a4-4fd2-b3b7-b1f8e87e8096">
+
 </div>
 
 <br>
@@ -64,8 +68,9 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/ecc0097c-b7c0-4ef6-8307-4c5c609cfc2f">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/e2b0c947-e762-4327-bacf-d6afa1c10195">
 
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/0eee9d7d-e4a4-4fd2-b3b7-b1f8e87e8096">
 
 </div>
 <br>
