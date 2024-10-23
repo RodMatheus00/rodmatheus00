@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodMatheus00&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodMatheus00)](https://git.io/streak-stats)
 
 </div>
 
