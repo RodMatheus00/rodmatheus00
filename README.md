@@ -7,10 +7,6 @@
 <br>
 <br>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodMatheus00)](https://git.io/streak-stats)
-
 </div>
 
 <div align="center"> 
@@ -48,7 +44,6 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/e2b0c947-e762-4327-bacf-d6afa1c10195">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/0eee9d7d-e4a4-4fd2-b3b7-b1f8e87e8096">
 
 </div>
 
@@ -70,7 +65,6 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/e2b0c947-e762-4327-bacf-d6afa1c10195">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/0eee9d7d-e4a4-4fd2-b3b7-b1f8e87e8096">
 
 </div>
 <br>
