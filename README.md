@@ -32,7 +32,7 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="[https://github.com/user-attachments/assets/9a9a4592-b53c-4f28-b502-ea3329f29356](https://github.com/user-attachments/assets/0da47cd3-3f64-490d-af2d-77a314eb7701)">
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/0da47cd3-3f64-490d-af2d-77a314eb7701">
   
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/9a9a4592-b53c-4f28-b502-ea3329f29356">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/9a9a4592-b53c-4f28-b502-ea3329f29356">
