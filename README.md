@@ -20,7 +20,7 @@
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
-<a  href="https://www.linkedin.com/in/matheus-rodrigues-337541239/" target=_blank>
+<a  href="www.linkedin.com/in/matheusrodrigues-engenheiro" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
@@ -33,8 +33,6 @@
 ### Main skills:
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/0da47cd3-3f64-490d-af2d-77a314eb7701">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/5276ab76-2284-4954-a445-773b50a89b2b">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/7e16c96b-032b-47f4-bf3d-9742b066b184">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/c2d3e815-d05d-4546-a398-ae6eadb38871">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/ea906925-e30d-4ecd-8226-4a6c4d60f4f3">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/9374fc0e-3c87-4491-b74b-e5cda85a2c0b">
