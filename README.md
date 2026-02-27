@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+;My+name+is+Matheus.;I+am+24+years+old.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!;My+name+is+Matheus.;I'm+a+BI+Engineer.)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -60,9 +60,7 @@
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/7295b44c-f6a5-48e7-863c-949d4bfff5e0">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/9374fc0e-3c87-4491-b74b-e5cda85a2c0b">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/8d6432c1-b200-4b72-ae55-61ce091cff51">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/c2d3e815-d05d-4546-a398-ae6eadb38871">
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/ea906925-e30d-4ecd-8226-4a6c4d60f4f3">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/dad83190-1401-4519-9bdd-07002444893d">
 
 </div>
