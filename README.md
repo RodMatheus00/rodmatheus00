@@ -4,16 +4,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Matheus+Rodrigues;BI+Engineer+%7C+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Turning+data+into+business+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Matheus+Rodrigues;Senior+Data+Engineer;BI+Engineer+%7C+Data+Analytics;Power+BI+%7C+SQL+%7C+Python;Turning+operations+into+decisions)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BI%20Engineer-0F172A?style=for-the-badge&color=111827" />
-<img src="https://img.shields.io/badge/Data%20Analyst-0F172A?style=for-the-badge&color=111827" />
-<img src="https://img.shields.io/badge/Business%20Intelligence-0F172A?style=for-the-badge&color=111827" />
-<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&color=111827" />
+<img src="https://img.shields.io/badge/Senior%20Data%20Engineer-0F172A?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/BI%20Engineer-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=E37400" />
+<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=uipath&logoColor=FA4616" />
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### Transforming data into clarity, strategy and business impact.
+### I build reliable data products that turn operations into decisions.
 
 </div>
 
@@ -29,35 +29,35 @@
 
 ## 👨‍💻 About me
 
-Sou **BI Engineer / Data Analyst**, apaixonado por tecnologia, dados e automação.
+I am **Matheus Rodrigues**, a data professional focused on transforming fragmented information into reliable analytics products.
 
-Transformo dados em **dashboards, indicadores, análises e soluções de Business Intelligence** para apoiar decisões estratégicas, otimizar processos e gerar impacto real para o negócio.
+My work combines **Data Engineering**, **Business Intelligence**, **SQL**, **Power BI**, **Python** and **process automation** to help teams understand what is happening, where the bottlenecks are and what decisions should come next.
 
-- 📊 Desenvolvimento de dashboards executivos e operacionais
-- 📈 Análise de indicadores, performance e resultados
-- ⚙️ Automação de relatórios e processos analíticos
-- 🧠 Modelagem de dados, regras de negócio e KPIs
-- 🚀 Evolução constante em BI, Analytics, SQL, Python e Data Engineering
+- Data pipelines, ETL routines and automation flows
+- Power BI dashboards focused on operational and financial clarity
+- SQL queries, analytical views and data modeling
+- KPI tracking, business rules and executive reporting
+- Automation solutions to reduce manual work and improve consistency
 
 ---
 
 ## 🧠 What I do
 
-### 📊 BI & Dashboards
+### 🔄 Data Pipelines
 
-Criação de dashboards estratégicos, operacionais e analíticos para acompanhamento de indicadores, metas e performance.
+Extraction, transformation, validation and delivery of data with clear rules and maintainable routines.
 
-### 📈 Data Analysis
+### 📊 Business Intelligence
 
-Análises orientadas a negócio para identificar padrões, gargalos, oportunidades e pontos de melhoria.
+Power BI dashboards and data models designed for managers, operations and financial monitoring.
+
+### 🗄️ SQL & Data Modeling
+
+Queries, database routines, analytical views and structures aligned with reporting needs.
 
 ### ⚙️ Automation
 
-Automação de relatórios, tratamentos de dados e rotinas analíticas para reduzir esforço manual e aumentar confiabilidade.
-
-### 🗄️ Data Modeling
-
-Estruturação de bases, relacionamentos, regras de negócio e camadas analíticas para consumo em BI.
+Python, RPA and integration flows that reduce repetitive work and improve operational consistency.
 
 ---
 
@@ -67,35 +67,42 @@ Estruturação de bases, relacionamentos, regras de negócio e camadas analític
 
 ### Main tools
 
-📊 <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&color=0F172A" />
-🧮 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&color=0F172A" />
-🐍 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&color=0F172A" />
-📗 <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&color=0F172A" />
-🐙 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&color=0F172A" />
+<img src="https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 
 <br />
 <br />
 
 ### BI & Analytics
 
-🧠 <img src="https://img.shields.io/badge/DAX-111827?style=for-the-badge&color=0F172A" />
-⚡ <img src="https://img.shields.io/badge/Power%20Query-111827?style=for-the-badge&color=0F172A" />
-🗄️ <img src="https://img.shields.io/badge/Data%20Modeling-111827?style=for-the-badge&color=0F172A" />
-🔄 <img src="https://img.shields.io/badge/ETL-111827?style=for-the-badge&color=0F172A" />
-📌 <img src="https://img.shields.io/badge/KPIs-111827?style=for-the-badge&color=0F172A" />
+<img src="https://img.shields.io/badge/DAX-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Power%20Query-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Data%20Modeling-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/ETL-111827?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
+<img src="https://img.shields.io/badge/KPIs-111827?style=for-the-badge&logo=googleanalytics&logoColor=E37400" />
 
 <br />
 <br />
 
-### Other technologies
+### Data Engineering & Automation
 
-🟨 <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&color=0F172A" />
-⚛️ <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&color=0F172A" />
-🛢️ <img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&color=0F172A" />
-🔶 <img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge&color=0F172A" />
-🤖 <img src="https://img.shields.io/badge/UiPath-111827?style=for-the-badge&color=0F172A" />
-🎨 <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&color=0F172A" />
-☁️ <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&color=0F172A" />
+<img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+<img src="https://img.shields.io/badge/Oracle-0F172A?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/UiPath-0F172A?style=for-the-badge&logo=uipath&logoColor=FA4616" />
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=robotframework&logoColor=white" />
+
+<br />
+<br />
+
+### Web & Design
+
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 </div>
 
@@ -103,60 +110,93 @@ Estruturação de bases, relacionamentos, regras de negócio e camadas analític
 
 ## 🚀 Featured portfolio projects
 
-> Alguns projetos e repositórios são privados por conterem informações sensíveis de empresa.  
-> Abaixo estão resumos profissionais e anonimizados com base nos principais projetos do meu portfólio.
+Some projects and repositories are private because they contain sensitive business information, internal rules, company data or operational structures.
 
-### 📊 Dados Operacionais
-
-Dashboard em **Power BI** voltado para acompanhamento de dados operacionais, indicadores de desempenho e visão gerencial dos processos.
-
-**Stack:** Power BI · DAX · KPIs · Data Visualization  
-**Impacto:** centralização de informações operacionais para análise e tomada de decisão.
+Below are professional and anonymized summaries of selected projects from my portfolio.
 
 ---
 
-### 💰 Títulos a Pagar
+### 📊 Cost Intelligence Dashboard
 
-Solução analítica para acompanhamento financeiro de títulos, vencimentos, status e visão consolidada de pagamentos.
+**Power BI • Cost Analytics**
 
-**Stack:** Power BI · Excel · Data Modeling · Business Rules  
-**Impacto:** maior controle financeiro e acompanhamento mais claro das obrigações.
+Supplier, category and spending analysis for operational cost control.
 
----
+<img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Cost%20Analytics-0F172A?style=flat-square&logo=googleanalytics&logoColor=E37400" />
+<img src="https://img.shields.io/badge/KPIs-0F172A?style=flat-square&logo=target&logoColor=white" />
 
-### 📈 Financeiro - BeTre
-
-Dashboard financeiro com foco em análise de resultados, indicadores, receitas, custos e acompanhamento executivo.
-
-**Stack:** Power BI · DAX · Financial Analysis · KPIs  
-**Impacto:** apoio à gestão financeira com visão objetiva dos principais indicadores.
+**Impact:** improves cost visibility and supports better operational decision-making.
 
 ---
 
-### 🏗️ Custos por Equipamento
+### 📦 Inventory vs Target Control
 
-Análise de custos relacionados a equipamentos, permitindo visão por categoria, período, centro de custo ou tipo de operação.
+**Power BI • Operations**
 
-**Stack:** Power BI · SQL · Data Analysis · Cost Management  
-**Impacto:** identificação de custos relevantes e apoio à otimização operacional.
+Stock goals, inventory flow and deviation tracking for operational monitoring.
 
----
+<img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Operations-0F172A?style=flat-square&logo=opsgenie&logoColor=2684FF" />
+<img src="https://img.shields.io/badge/Data%20Visualization-0F172A?style=flat-square&logo=googleanalytics&logoColor=E37400" />
 
-### 💳 Compras de Créditos
-
-Dashboard para acompanhamento de compras de créditos, evolução temporal, valores, volumes e indicadores de consumo.
-
-**Stack:** Power BI · Data Analysis · KPIs · Business Intelligence  
-**Impacto:** melhoria no acompanhamento de consumo, compras e comportamento financeiro.
+**Impact:** helps teams monitor stock behavior, targets and operational deviations.
 
 ---
 
-### 🌐 Portal BI
+### 🌐 BI Portal
 
-Projeto web para organização e acesso a soluções de BI, dashboards e conteúdos analíticos de forma centralizada.
+**Analytics Portal • Business Intelligence**
 
-**Stack:** Web Development · BI · JavaScript · React  
-**Impacto:** melhor organização, acesso e apresentação das soluções analíticas.
+Centralized access to dashboards, reports and business metrics.
+
+<img src="https://img.shields.io/badge/BI%20Portal-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+
+**Impact:** organizes analytics solutions and improves access to business information.
+
+---
+
+### 🚌 Urban Mobility BI 3D
+
+**BI • 3D Analytics**
+
+Routes, stations, alerts and accessibility indicators in a 3D BI view.
+
+<img src="https://img.shields.io/badge/BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/3D%20Analytics-0F172A?style=flat-square&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobility-0F172A?style=flat-square&logo=googlemaps&logoColor=4285F4" />
+
+**Impact:** provides a visual and analytical perspective for mobility-related indicators.
+
+---
+
+### 🔄 Fare Collection Integration Automation
+
+**Oracle • SQL Server • ETL**
+
+Automated ingestion, validation and reconciliation for revenue reporting.
+
+<img src="https://img.shields.io/badge/Oracle-0F172A?style=flat-square&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+<img src="https://img.shields.io/badge/ETL-0F172A?style=flat-square&logo=apacheairflow&logoColor=017CEE" />
+
+**Impact:** reduces manual work and improves reliability in revenue data processing.
+
+---
+
+### 🤖 WhatsApp Budget Bot
+
+**Python • Automation**
+
+Catalog guidance, quote summary and PDF generation through chat automation.
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Automation-0F172A?style=flat-square&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/PDF%20Generation-0F172A?style=flat-square&logo=adobeacrobatreader&logoColor=EC1C24" />
+
+**Impact:** speeds up quote generation and improves the customer interaction flow.
 
 ---
 
@@ -165,7 +205,7 @@ Projeto web para organização e acesso a soluções de BI, dashboards e conteú
 <div align="center">
 
 <a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&color=38BDF8" />
+  <img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
 </a>
 
 </div>
@@ -174,17 +214,17 @@ Projeto web para organização e acesso a soluções de BI, dashboards e conteú
 
 ## 🔒 About my repositories
 
-A maior parte dos meus projetos profissionais fica em repositórios privados para proteger informações sensíveis de empresas, dados internos, regras de negócio e estruturas de análise.
+Most of my professional repositories are private to protect company information, business rules, internal data structures and sensitive operational details.
 
-Mesmo assim, meu GitHub apresenta minha evolução, estudos, projetos pessoais e materiais relacionados a dados, BI e desenvolvimento.
+Even when the source code is not public, I document my work through anonymized case studies, portfolio projects and technical summaries.
 
 <div align="center">
 
 <a href="https://github.com/RodMatheus00" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-RodMatheus00-111827?style=for-the-badge&color=0F172A" />
+  <img src="https://img.shields.io/badge/GitHub-RodMatheus00-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/Private%20Projects-Protected%20Business%20Data-374151?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Private%20Projects-Protected%20Business%20Data-374151?style=for-the-badge&logo=lock&logoColor=white" />
 
 </div>
 
@@ -194,19 +234,19 @@ Mesmo assim, meu GitHub apresenta minha evolução, estudos, projetos pessoais e
 
 ### Business Intelligence
 
-Desenvolvimento de soluções analíticas para apoiar decisões estratégicas, operacionais e gerenciais.
+Development of analytical solutions to support strategic, operational and management decisions.
+
+### Data Engineering
+
+Design of data flows, ETL routines, SQL processes and automation layers for reliable analytics.
 
 ### Data Visualization
 
-Construção de dashboards objetivos, intuitivos e orientados a indicadores de negócio.
-
-### Data Analysis
-
-Exploração de dados para encontrar tendências, padrões, desvios, gargalos e oportunidades.
+Creation of clear, intuitive and business-oriented dashboards.
 
 ### Process Automation
 
-Automação de rotinas manuais, relatórios e tratamentos de dados com foco em produtividade e confiabilidade.
+Optimization of manual routines, reports and data treatments with a focus on productivity and reliability.
 
 ---
 
@@ -215,19 +255,19 @@ Automação de rotinas manuais, relatórios e tratamentos de dados com foco em p
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matheusrodrigues-engenheiro/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <a href="mailto:cmp.1a.matheusrodd17@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <a href="https://www.instagram.com/eiimathe/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 <a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
