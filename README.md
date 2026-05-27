@@ -43,21 +43,30 @@ My work combines **Data Engineering**, **Business Intelligence**, **SQL**, **Pow
 
 ## 🧠 What I do
 
-### 🔄 Data Pipelines
+<div align="center">
 
-Extraction, transformation, validation and delivery of data with clear rules and maintainable routines.
+<table>
+<tr>
+<td width="25%" align="center">
+<h3>🔄 Data Pipelines</h3>
+<p>Extraction, transformation, validation and delivery of data with clear rules and maintainable routines.</p>
+</td>
+<td width="25%" align="center">
+<h3>📊 Business Intelligence</h3>
+<p>Power BI dashboards and data models designed for managers, operations and financial monitoring.</p>
+</td>
+<td width="25%" align="center">
+<h3>🗄️ SQL & Modeling</h3>
+<p>Queries, analytical views and database structures aligned with reporting and business needs.</p>
+</td>
+<td width="25%" align="center">
+<h3>⚙️ Automation</h3>
+<p>Python, RPA and integration flows that reduce repetitive work and improve consistency.</p>
+</td>
+</tr>
+</table>
 
-### 📊 Business Intelligence
-
-Power BI dashboards and data models designed for managers, operations and financial monitoring.
-
-### 🗄️ SQL & Data Modeling
-
-Queries, database routines, analytical views and structures aligned with reporting needs.
-
-### ⚙️ Automation
-
-Python, RPA and integration flows that reduce repetitive work and improve operational consistency.
+</div>
 
 ---
 
@@ -92,8 +101,8 @@ Python, RPA and integration flows that reduce repetitive work and improve operat
 <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
 <img src="https://img.shields.io/badge/Oracle-0F172A?style=for-the-badge&logo=oracle&logoColor=F80000" />
 <img src="https://img.shields.io/badge/UiPath-0F172A?style=for-the-badge&logo=uipath&logoColor=FA4616" />
-<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" />
 
 <br />
 <br />
@@ -114,89 +123,104 @@ Some projects and repositories are private because they contain sensitive busine
 
 Below are professional and anonymized summaries of selected projects from my portfolio.
 
----
+<br />
 
-### 📊 Cost Intelligence Dashboard
+<div align="center">
 
-**Power BI • Cost Analytics**
-
-Supplier, category and spending analysis for operational cost control.
-
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>📊 Cost Intelligence Dashboard</h3>
+<p><strong>Power BI • Cost Analytics</strong></p>
+<p>Supplier, category and spending analysis for operational cost control.</p>
+<p>
 <img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
 <img src="https://img.shields.io/badge/Cost%20Analytics-0F172A?style=flat-square&logo=googleanalytics&logoColor=E37400" />
-<img src="https://img.shields.io/badge/KPIs-0F172A?style=flat-square&logo=target&logoColor=white" />
-
-**Impact:** improves cost visibility and supports better operational decision-making.
-
----
-
-### 📦 Inventory vs Target Control
-
-**Power BI • Operations**
-
-Stock goals, inventory flow and deviation tracking for operational monitoring.
-
+<img src="https://img.shields.io/badge/KPIs-0F172A?style=flat-square&logo=googleanalytics&logoColor=E37400" />
+</p>
+<p><strong>Impact:</strong> improves cost visibility and supports better operational decision-making.</p>
+<a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
+</a>
+</td>
+<td width="50%" align="center">
+<h3>📦 Inventory vs Target Control</h3>
+<p><strong>Power BI • Operations</strong></p>
+<p>Stock goals, inventory flow and deviation tracking for operational monitoring.</p>
+<p>
 <img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
 <img src="https://img.shields.io/badge/Operations-0F172A?style=flat-square&logo=opsgenie&logoColor=2684FF" />
 <img src="https://img.shields.io/badge/Data%20Visualization-0F172A?style=flat-square&logo=googleanalytics&logoColor=E37400" />
-
-**Impact:** helps teams monitor stock behavior, targets and operational deviations.
-
----
-
-### 🌐 BI Portal
-
-**Analytics Portal • Business Intelligence**
-
-Centralized access to dashboards, reports and business metrics.
-
+</p>
+<p><strong>Impact:</strong> helps teams monitor stock behavior, targets and operational deviations.</p>
+<a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>🌐 BI Portal</h3>
+<p><strong>Analytics Portal • Business Intelligence</strong></p>
+<p>Centralized access to dashboards, reports and business metrics.</p>
+<p>
 <img src="https://img.shields.io/badge/BI%20Portal-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
 <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-
-**Impact:** organizes analytics solutions and improves access to business information.
-
----
-
-### 🚌 Urban Mobility BI 3D
-
-**BI • 3D Analytics**
-
-Routes, stations, alerts and accessibility indicators in a 3D BI view.
-
-<img src="https://img.shields.io/badge/BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
+</p>
+<p><strong>Impact:</strong> organizes analytics solutions and improves access to business information.</p>
+<a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
+</a>
+</td>
+<td width="50%" align="center">
+<h3>🚌 Urban Mobility BI 3D</h3>
+<p><strong>BI • 3D Analytics</strong></p>
+<p>Routes, stations, alerts and accessibility indicators in a 3D BI view.</p>
+<p>
+<img src="https://img.shields.io/badge/Business%20Intelligence-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" />
 <img src="https://img.shields.io/badge/3D%20Analytics-0F172A?style=flat-square&logo=three.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Mobility-0F172A?style=flat-square&logo=googlemaps&logoColor=4285F4" />
-
-**Impact:** provides a visual and analytical perspective for mobility-related indicators.
-
----
-
-### 🔄 Fare Collection Integration Automation
-
-**Oracle • SQL Server • ETL**
-
-Automated ingestion, validation and reconciliation for revenue reporting.
-
+</p>
+<p><strong>Impact:</strong> provides a visual and analytical perspective for mobility-related indicators.</p>
+<a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>🔄 Fare Collection Integration Automation</h3>
+<p><strong>Oracle • SQL Server • ETL</strong></p>
+<p>Automated ingestion, validation and reconciliation for revenue reporting.</p>
+<p>
 <img src="https://img.shields.io/badge/Oracle-0F172A?style=flat-square&logo=oracle&logoColor=F80000" />
 <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
 <img src="https://img.shields.io/badge/ETL-0F172A?style=flat-square&logo=apacheairflow&logoColor=017CEE" />
-
-**Impact:** reduces manual work and improves reliability in revenue data processing.
-
----
-
-### 🤖 WhatsApp Budget Bot
-
-**Python • Automation**
-
-Catalog guidance, quote summary and PDF generation through chat automation.
-
+</p>
+<p><strong>Impact:</strong> reduces manual work and improves reliability in revenue data processing.</p>
+<a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
+</a>
+</td>
+<td width="50%" align="center">
+<h3>🤖 WhatsApp Budget Bot</h3>
+<p><strong>Python • Automation</strong></p>
+<p>Catalog guidance, quote summary and PDF generation through chat automation.</p>
+<p>
 <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Automation-0F172A?style=flat-square&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-0F172A?style=flat-square&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/PDF%20Generation-0F172A?style=flat-square&logo=adobeacrobatreader&logoColor=EC1C24" />
+</p>
+<p><strong>Impact:</strong> speeds up quote generation and improves the customer interaction flow.</p>
+<a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
+</a>
+</td>
+</tr>
+</table>
 
-**Impact:** speeds up quote generation and improves the customer interaction flow.
+</div>
 
 ---
 
@@ -205,7 +229,7 @@ Catalog guidance, quote summary and PDF generation through chat automation.
 <div align="center">
 
 <a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/View%20Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" />
 </a>
 
 </div>
@@ -221,7 +245,7 @@ Even when the source code is not public, I document my work through anonymized c
 <div align="center">
 
 <a href="https://github.com/RodMatheus00" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-RodMatheus00-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-RodMatheus00-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <img src="https://img.shields.io/badge/Private%20Projects-Protected%20Business%20Data-374151?style=for-the-badge&logo=lock&logoColor=white" />
@@ -232,21 +256,32 @@ Even when the source code is not public, I document my work through anonymized c
 
 ## 📌 Professional focus
 
-### Business Intelligence
+<div align="center">
 
-Development of analytical solutions to support strategic, operational and management decisions.
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>📊 Business Intelligence</h3>
+<p>Development of analytical solutions to support strategic, operational and management decisions.</p>
+</td>
+<td width="50%" align="center">
+<h3>🔄 Data Engineering</h3>
+<p>Design of data flows, ETL routines, SQL processes and automation layers for reliable analytics.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>📈 Data Visualization</h3>
+<p>Creation of clear, intuitive and business-oriented dashboards.</p>
+</td>
+<td width="50%" align="center">
+<h3>⚙️ Process Automation</h3>
+<p>Optimization of manual routines, reports and data treatments with a focus on productivity and reliability.</p>
+</td>
+</tr>
+</table>
 
-### Data Engineering
-
-Design of data flows, ETL routines, SQL processes and automation layers for reliable analytics.
-
-### Data Visualization
-
-Creation of clear, intuitive and business-oriented dashboards.
-
-### Process Automation
-
-Optimization of manual routines, reports and data treatments with a focus on productivity and reliability.
+</div>
 
 ---
 
@@ -255,19 +290,19 @@ Optimization of manual routines, reports and data treatments with a focus on pro
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matheusrodrigues-engenheiro/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <a href="mailto:cmp.1a.matheusrodd17@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <a href="https://www.instagram.com/eiimathe/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 <a href="https://rodmatheus00.github.io/website-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
